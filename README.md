@@ -31,3 +31,35 @@ A colorful and interactive **Bubble Shooter** game built with Python and Pygame,
    ```bash
    git clone https://github.com/yourusername/bubble-shooter.git
    cd bubble-shooter
+
+
+🎮 Controls
+Mouse: Aim the bubble cannon
+
+Left Click: Shoot bubble
+
+R: Restart game
+
+ESC: Quit game
+
+
+Install dependencies:
+
+
+
+pip install -r requirements.txt
+
+
+
+
+🤝 Contributing
+Contributions are welcome! Please open an issue or submit a PR for any:
+
+Bug fixes
+
+New features
+
+Performance improvements
+
+
+   
